@@ -1,0 +1,691 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="970f1010-9b2c-4899-85cd-494ea4620268" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Scrapy_InternationalEconomic_info_V1_01/ApolloConfig.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="638">
+              <caret line="29" selection-start-line="18" selection-end-line="29" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Scrapy_InternationalEconomic_info_V1_01/settings.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="342">
+              <caret line="38" selection-start-line="38" selection-end-line="38" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Scrapy_InternationalEconomic_info_V1_01/MysqlPool.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="361">
+              <caret line="258" column="17" selection-start-line="258" selection-start-column="17" selection-end-line="258" selection-end-column="17" />
+              <folding>
+                <element signature="e#150#164#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Scrapy_InternationalEconomic_info_V1_01/pipelines.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="286">
+              <caret line="13" selection-start-line="13" selection-end-line="13" />
+              <folding>
+                <element signature="e#24#38#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>361639</find>
+      <find>info</find>
+      <find>Starting new HTTP</find>
+      <find>jpeg</find>
+      <find>deb</find>
+      <find>图片下载完成</find>
+      <find>item['images']</find>
+      <find>res</find>
+      <find>images</find>
+      <find>from Scrapy_InternationalEconomic_info_V1_01.settings import IMAGES_STORE, SPIDER_NAME</find>
+      <find>&quot;http://192.168.0.11:8066/file/upload/&quot;</find>
+      <find>self.logger.info('图片下载完成')</find>
+      <find>self.logger.info('图片下载失败')</find>
+      <find>ChinawuliuG58ZxItem</find>
+      <find># print(item)</find>
+      <find>settings</find>
+      <find>CrawlerRunner</find>
+      <find>Hexun_01</find>
+      <find>get_info[1]</find>
+      <find>http://news.hexun.com</find>
+      <find>self.base_url</find>
+      <find>mysqlAPI</find>
+      <find>192.168.0.11:5010</find>
+      <find>192.168.0.11</find>
+      <find>Log</find>
+      <find>from Scrapy_InternationalEconomic_info_V1_01.settings import IMAGES_STORE, SPIDER_NAME, UPLOADURL</find>
+    </findStrings>
+    <replaceStrings>
+      <replace>from Scrapy_InternationalEconomic_info_V1_01.settings import IMAGES_STORE, SPIDER_NAME, UPLOADURL</replace>
+      <replace>UPLOADURL</replace>
+      <replace>self.logger.info({'图片下载完成': url})</replace>
+      <replace>self.logger.info({'图片下载失败': url})</replace>
+      <replace>InfoItem</replace>
+      <replace />
+      <replace>st</replace>
+      <replace>info</replace>
+      <replace>192.168.3.85:5010</replace>
+      <replace>from Scrapy_InternationalEconomic_info_V1_01.ApolloConfig import IMAGES_STORE, SPIDER_NAME, UPLOADURL</replace>
+    </replaceStrings>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/Scrapy_InternationalEconomic_info_V1_01/middlewares.py" />
+        <option value="$PROJECT_DIR$/../Scrapy_D44_data_V1_02/scrapy.cfg" />
+        <option value="$USER_HOME$/Desktop/test.py" />
+        <option value="$PROJECT_DIR$/Scrapy_InternationalEconomic_info_V1_01/mysqlAPI.py" />
+        <option value="$PROJECT_DIR$/Scrapy_InternationalEconomic_info_V1_01/proxy.py" />
+        <option value="$PROJECT_DIR$/Scrapy_InternationalEconomic_info_V1_01/spiders/Cnforex_01.py" />
+        <option value="$PROJECT_DIR$/Scrapy_InternationalEconomic_info_V1_01/spiders/Comnews_01.py" />
+        <option value="$PROJECT_DIR$/Scrapy_InternationalEconomic_info_V1_01/spiders/Eastmoney_01.py" />
+        <option value="$PROJECT_DIR$/Scrapy_InternationalEconomic_info_V1_01/spiders/FinanceHuanqiu_01.py" />
+        <option value="$PROJECT_DIR$/Scrapy_InternationalEconomic_info_V1_01/spiders/FinanceIfeng_01.py" />
+        <option value="$PROJECT_DIR$/Scrapy_InternationalEconomic_info_V1_01/spiders/FinanceJrj_01.py" />
+        <option value="$PROJECT_DIR$/Scrapy_InternationalEconomic_info_V1_01/spiders/Financialnews_01.py" />
+        <option value="$PROJECT_DIR$/Scrapy_InternationalEconomic_info_V1_01/spiders/ForexHexun_01.py" />
+        <option value="$PROJECT_DIR$/Scrapy_InternationalEconomic_info_V1_01/spiders/ForexXinhua_01.py" />
+        <option value="$PROJECT_DIR$/Scrapy_InternationalEconomic_info_V1_01/spiders/ForexXinhua_02.py" />
+        <option value="$PROJECT_DIR$/Scrapy_InternationalEconomic_info_V1_01/spiders/Hexun_01.py" />
+        <option value="$PROJECT_DIR$/Scrapy_InternationalEconomic_info_V1_01/spiders/IntlCe_01.py" />
+        <option value="$PROJECT_DIR$/Scrapy_InternationalEconomic_info_V1_01/spiders/Money163_01.py" />
+        <option value="$PROJECT_DIR$/Scrapy_InternationalEconomic_info_V1_01/spiders/Takungpao_01.py" />
+        <option value="$PROJECT_DIR$/scrapy.cfg" />
+        <option value="$PROJECT_DIR$/Scrapy_InternationalEconomic_info_V1_01/spiders/Yicai_01.py" />
+        <option value="$PROJECT_DIR$/Scrapy_InternationalEconomic_info_V1_01/MysqlPool.py" />
+        <option value="$PROJECT_DIR$/Scrapy_InternationalEconomic_info_V1_01/pipelines.py" />
+        <option value="$PROJECT_DIR$/Scrapy_InternationalEconomic_info_V1_01/ApolloConfig.py" />
+        <option value="$PROJECT_DIR$/Scrapy_InternationalEconomic_info_V1_01/settings.py" />
+        <option value="$PROJECT_DIR$/Scrapy_InternationalEconomic_info_V1_01/spiders/Bbtnews_01.py" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="width" value="1280" />
+    <option name="height" value="1392" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="Scrapy_InternationalEconomic_info_V1_01" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Scrapy_InternationalEconomic_info_V1_01" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Scrapy_InternationalEconomic_info_V1_01" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Scrapy_InternationalEconomic_info_V1_01" type="462c0819:PsiDirectoryNode" />
+              <item name="Scrapy_InternationalEconomic_info_V1_01" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Scrapy_InternationalEconomic_info_V1_01" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Scrapy_InternationalEconomic_info_V1_01" type="462c0819:PsiDirectoryNode" />
+              <item name="Scrapy_InternationalEconomic_info_V1_01" type="462c0819:PsiDirectoryNode" />
+              <item name="spiders" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/Scrapy_InternationalEconomic_info_V1_01" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="F:\部署爬虫\info_spider\Scrapy_InternationalEconomic_info_V1_01\Scrapy_InternationalEconomic_info_V1_01" />
+      <recent name="E:\部署爬虫\info_spider\Scrapy_InternationalEconomic_info_V1_01\Scrapy_InternationalEconomic_info_V1_01" />
+      <recent name="E:\部署爬虫\Scrapy_InternationalEconomic_info_V1_01\Scrapy_InternationalEconomic_info_V1_01" />
+      <recent name="D:\InternationalEconomic\Scrapy_InternationalEconomic_info_V1_01\Scrapy_InternationalEconomic_info_V1_01\spiders" />
+      <recent name="D:\InternationalEconomic\Scrapy_InternationalEconomic_info_V1_01\Scrapy_InternationalEconomic_info_V1_01" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Python.ApolloConfig">
+    <configuration name="ApolloConfig" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Scrapy_InternationalEconomic_info_V1_01" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Scrapy_InternationalEconomic_info_V1_01" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Scrapy_InternationalEconomic_info_V1_01/ApolloConfig.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Bbtnews_01" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Scrapy_InternationalEconomic_info_V1_01" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Scrapy_InternationalEconomic_info_V1_01/spiders" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Scrapy_InternationalEconomic_info_V1_01/spiders/Bbtnews_01.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Cnforex_01" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Scrapy_InternationalEconomic_info_V1_01" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Scrapy_InternationalEconomic_info_V1_01/spiders" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Scrapy_InternationalEconomic_info_V1_01/spiders/Cnforex_01.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Hexun_01" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Scrapy_InternationalEconomic_info_V1_01" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Scrapy_InternationalEconomic_info_V1_01/spiders" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Scrapy_InternationalEconomic_info_V1_01/spiders/Hexun_01.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Yicai_01" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Scrapy_InternationalEconomic_info_V1_01" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Scrapy_InternationalEconomic_info_V1_01/spiders" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Scrapy_InternationalEconomic_info_V1_01/spiders/Yicai_01.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.ApolloConfig" />
+        <item itemvalue="Python.Yicai_01" />
+        <item itemvalue="Python.Bbtnews_01" />
+        <item itemvalue="Python.Cnforex_01" />
+        <item itemvalue="Python.Hexun_01" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="970f1010-9b2c-4899-85cd-494ea4620268" name="Default Changelist" comment="" />
+      <created>1595404408135</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1595404408135</updated>
+      <workItem from="1595404410953" duration="19433000" />
+      <workItem from="1596097351541" duration="32141000" />
+      <workItem from="1596694775498" duration="2704000" />
+      <workItem from="1597281568290" duration="1194000" />
+      <workItem from="1597284894142" duration="823000" />
+      <workItem from="1597376409285" duration="626000" />
+      <workItem from="1597735704562" duration="1954000" />
+      <workItem from="1597800767574" duration="622000" />
+      <workItem from="1597807171012" duration="1251000" />
+      <workItem from="1597906675174" duration="1931000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="62679000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-9" y="-9" width="2578" height="1410" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.14017572" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.47668812" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" />
+      <window_info anchor="bottom" id="Database Changes" order="9" />
+      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" weight="0.329582" />
+      <window_info anchor="bottom" id="Terminal" order="11" weight="0.37942123" />
+      <window_info anchor="bottom" id="Python Console" order="12" weight="0.329582" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="SciView" order="3" />
+      <window_info anchor="right" id="Database" order="4" />
+    </layout>
+    <layout-to-restore>
+      <window_info id="Favorites" order="0" side_tool="true" />
+      <window_info active="true" content_ui="combo" id="Project" order="1" visible="true" weight="0.18849841" />
+      <window_info id="Structure" order="2" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Docker" order="0" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Terminal" order="1" />
+      <window_info anchor="bottom" id="Event Log" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Database Changes" order="3" />
+      <window_info anchor="bottom" id="Version Control" order="4" />
+      <window_info anchor="bottom" id="Python Console" order="5" />
+      <window_info anchor="bottom" id="Message" order="6" />
+      <window_info anchor="bottom" id="Find" order="7" />
+      <window_info anchor="bottom" id="Run" order="8" weight="0.4517685" />
+      <window_info anchor="bottom" id="Debug" order="9" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="10" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="11" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="12" />
+      <window_info anchor="right" id="Database" order="0" />
+      <window_info anchor="right" id="SciView" order="1" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="2" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="3" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="4" weight="0.25" />
+    </layout-to-restore>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/Scrapy_InternationalEconomic_info_V1_01$Money163_01.coverage" NAME="Money163_01 Coverage Results" MODIFIED="1595468845339" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Scrapy_InternationalEconomic_info_V1_01/spiders" />
+    <SUITE FILE_PATH="coverage/Scrapy_InternationalEconomic_info_V1_01$pipelines.coverage" NAME="pipelines Coverage Results" MODIFIED="1596508024642" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Scrapy_InternationalEconomic_info_V1_01" />
+    <SUITE FILE_PATH="coverage/Scrapy_InternationalEconomic_info_V1_01$ForexHexun_01.coverage" NAME="ForexHexun_01 Coverage Results" MODIFIED="1595467107175" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Scrapy_InternationalEconomic_info_V1_01/spiders" />
+    <SUITE FILE_PATH="coverage/Scrapy_InternationalEconomic_info_V1_01$Financialnews_01.coverage" NAME="Financialnews_01 Coverage Results" MODIFIED="1595412783627" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Scrapy_InternationalEconomic_info_V1_01/spiders" />
+    <SUITE FILE_PATH="coverage/Scrapy_InternationalEconomic_info_V1_01$Takungpao_01.coverage" NAME="Takungpao_01 Coverage Results" MODIFIED="1595471534710" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Scrapy_InternationalEconomic_info_V1_01/spiders" />
+    <SUITE FILE_PATH="coverage/Scrapy_InternationalEconomic_info_V1_01$Bbtnews_01.coverage" NAME="Bbtnews_01 Coverage Results" MODIFIED="1597284960662" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Scrapy_InternationalEconomic_info_V1_01/spiders" />
+    <SUITE FILE_PATH="coverage/Scrapy_InternationalEconomic_info_V1_01$Eastmoney_01.coverage" NAME="Eastmoney_01 Coverage Results" MODIFIED="1595411069276" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Scrapy_InternationalEconomic_info_V1_01/spiders" />
+    <SUITE FILE_PATH="coverage/Scrapy_InternationalEconomic_info_V1_01$Comnews_01.coverage" NAME="Comnews_01 Coverage Results" MODIFIED="1595410266826" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Scrapy_InternationalEconomic_info_V1_01/spiders" />
+    <SUITE FILE_PATH="coverage/Scrapy_InternationalEconomic_info_V1_01$FinanceHuanqiu_01.coverage" NAME="FinanceHuanqiu_01 Coverage Results" MODIFIED="1595411411329" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Scrapy_InternationalEconomic_info_V1_01/spiders" />
+    <SUITE FILE_PATH="coverage/Scrapy_InternationalEconomic_info_V1_01$FinanceJrj_01.coverage" NAME="FinanceJrj_01 Coverage Results" MODIFIED="1595412230757" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Scrapy_InternationalEconomic_info_V1_01/spiders" />
+    <SUITE FILE_PATH="coverage/Scrapy_InternationalEconomic_info_V1_01$test.coverage" NAME="test Coverage Results" MODIFIED="1596522467707" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$USER_HOME$/Desktop" />
+    <SUITE FILE_PATH="coverage/Scrapy_InternationalEconomic_info_V1_01$FinanceIfeng_01.coverage" NAME="FinanceIfeng_01 Coverage Results" MODIFIED="1595411908246" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Scrapy_InternationalEconomic_info_V1_01/spiders" />
+    <SUITE FILE_PATH="coverage/Scrapy_InternationalEconomic_info_V1_01$Cnforex_01.coverage" NAME="Cnforex_01 Coverage Results" MODIFIED="1596529943650" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Scrapy_InternationalEconomic_info_V1_01/spiders" />
+    <SUITE FILE_PATH="coverage/Scrapy_InternationalEconomic_info_V1_01$ForexXinhua_02.coverage" NAME="ForexXinhua_02 Coverage Results" MODIFIED="1595468252834" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Scrapy_InternationalEconomic_info_V1_01/spiders" />
+    <SUITE FILE_PATH="coverage/Scrapy_InternationalEconomic_info_V1_01$Hexun_01.coverage" NAME="Hexun_01 Coverage Results" MODIFIED="1596524708327" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Scrapy_InternationalEconomic_info_V1_01/spiders" />
+    <SUITE FILE_PATH="coverage/Scrapy_InternationalEconomic_info_V1_01$IntlCe_01.coverage" NAME="IntlCe_01 Coverage Results" MODIFIED="1595468654026" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Scrapy_InternationalEconomic_info_V1_01/spiders" />
+    <SUITE FILE_PATH="coverage/Scrapy_InternationalEconomic_info_V1_01$Yicai_01.coverage" NAME="Yicai_01 Coverage Results" MODIFIED="1597807605646" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Scrapy_InternationalEconomic_info_V1_01/spiders" />
+    <SUITE FILE_PATH="coverage/Scrapy_InternationalEconomic_info_V1_01$ForexXinhua_01.coverage" NAME="ForexXinhua_01 Coverage Results" MODIFIED="1595467906675" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Scrapy_InternationalEconomic_info_V1_01/spiders" />
+    <SUITE FILE_PATH="coverage/Scrapy_InternationalEconomic_info_V1_01$ApolloConfig.coverage" NAME="ApolloConfig Coverage Results" MODIFIED="1597908002839" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Scrapy_InternationalEconomic_info_V1_01" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://D:/新建文件夾/Recoverit 2020-07-22 at 15.54.50/E/Cultural/Data/spider/Scrapy_CulturalIimeida_V1_01/Scrapy_Iimeida_V1_01/spiders/iimeida_01_1.py" />
+    <entry file="file://D:/新建文件夾/Recoverit 2020-07-22 at 15.54.50/E/Cultural/Data/spider/Scrapy_CulturalRobo_V1_01/spiders/stats_01_1.py" />
+    <entry file="file://D:/新建文件夾/Recoverit 2020-07-22 at 15.54.50/E/Cultural/Data/spider/Scrapy_CulturalRobo_V1_01/spiders/Stats_01.py" />
+    <entry file="file://D:/新建文件夾/Recoverit 2020-07-22 at 15.54.50/E/Cultural/Data/spider/Scrapy_CulturalRobo_V1_01/items.py" />
+    <entry file="file://D:/新建文件夾/Recoverit 2020-07-22 at 15.54.50/E/Cultural/Data/spider/Scrapy_CulturalIimeida_V1_01/Scrapy_Iimeida_V1_01/spiders/Iimeida_01.py" />
+    <entry file="file://$USER_HOME$/Desktop/scrapyd_project   123/Building/Scrapy_100njz_V1_01/Scrapy_100njz_V1_01/spiders/a100njz_V1.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="506">
+          <caret line="57" lean-forward="true" selection-start-line="57" selection-end-line="57" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../Scrapy_Cnforex_V1_01/Scrapy_Cnforex_V1_01/spiders/Cnforex_01.py" />
+    <entry file="file://$PROJECT_DIR$/../Scrapy_FinanceJrj_V1_01/Scrapy_FinanceJrj_V1_01/spiders/123456.py" />
+    <entry file="file://$PROJECT_DIR$/../Scrapy_InternationalEconomic_V1_01/Scrapy_InternationalEconomic_V1_01/spiders/Takungpao_01.py" />
+    <entry file="file://$PROJECT_DIR$/../Scrapy_IntlCe_V1_01/Scrapy_IntlCe_V1_01/spiders/IntlCe_01.py" />
+    <entry file="file://$PROJECT_DIR$/../Scrapy_D44_data_V1_02/scrapy.cfg" />
+    <entry file="file://$PROJECT_DIR$/../Scrapy_D44_data_V1_01/Scrapy_D44_data_V1_01/pipelines.py" />
+    <entry file="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3/collections/__init__.pyi">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="252">
+          <caret line="306" column="8" selection-start-line="306" selection-start-column="8" selection-end-line="306" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://C:/ProgramData/Anaconda3/Lib/site-packages/scrapy/crawler.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="440">
+          <caret line="131" column="26" selection-start-line="131" selection-start-column="8" selection-end-line="131" selection-end-column="26" />
+          <folding>
+            <element signature="e#0#14#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://C:/ProgramData/Anaconda3/Lib/site-packages/scrapy/spiderloader.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="252">
+          <caret line="39" selection-start-line="39" selection-end-line="39" />
+          <folding>
+            <element signature="e#0#16#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Scrapy_InternationalEconomic_info_V1_01/spiders/test.txt" />
+    <entry file="file://$USER_HOME$/Desktop/test.py" />
+    <entry file="file://$PROJECT_DIR$/Scrapy_InternationalEconomic_info_V1_01/mysqlAPI.py" />
+    <entry file="file://$PROJECT_DIR$/Scrapy_InternationalEconomic_info_V1_01/middlewares.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="440">
+          <caret line="24" column="25" selection-start-line="24" selection-start-column="25" selection-end-line="24" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Scrapy_InternationalEconomic_info_V1_01/spiders/Cnforex_01.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="631">
+          <caret line="106" selection-start-line="106" selection-end-line="106" />
+          <folding>
+            <element signature="e#24#63#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Scrapy_InternationalEconomic_info_V1_01/spiders/Comnews_01.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="704">
+          <caret line="90" column="39" selection-start-line="90" selection-start-column="39" selection-end-line="90" selection-end-column="39" />
+          <folding>
+            <element signature="e#24#63#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Scrapy_InternationalEconomic_info_V1_01/spiders/Eastmoney_01.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="638">
+          <caret line="87" selection-start-line="87" selection-end-line="87" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Scrapy_InternationalEconomic_info_V1_01/spiders/FinanceHuanqiu_01.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="748">
+          <caret line="87" selection-start-line="87" selection-end-line="87" />
+          <folding>
+            <element signature="e#24#53#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Scrapy_InternationalEconomic_info_V1_01/spiders/FinanceIfeng_01.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="609">
+          <caret line="88" column="39" selection-start-line="88" selection-start-column="39" selection-end-line="88" selection-end-column="39" />
+          <folding>
+            <element signature="e#24#53#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Scrapy_InternationalEconomic_info_V1_01/spiders/Financialnews_01.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="814">
+          <caret line="93" selection-start-line="93" selection-end-line="93" />
+          <folding>
+            <element signature="e#24#53#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Scrapy_InternationalEconomic_info_V1_01/spiders/ForexXinhua_01.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="858">
+          <caret line="86" column="9" lean-forward="true" selection-start-line="86" selection-start-column="9" selection-end-line="86" selection-end-column="9" />
+          <folding>
+            <element signature="e#24#53#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Scrapy_InternationalEconomic_info_V1_01/spiders/Hexun_01.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="631">
+          <caret line="83" selection-start-line="83" selection-end-line="83" />
+          <folding>
+            <element signature="e#24#53#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Scrapy_InternationalEconomic_info_V1_01/spiders/IntlCe_01.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="660">
+          <caret line="92" selection-start-line="92" selection-end-line="92" />
+          <folding>
+            <element signature="e#24#53#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Scrapy_InternationalEconomic_info_V1_01/spiders/Money163_01.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="719">
+          <caret line="153" column="9" lean-forward="true" selection-start-line="153" selection-start-column="9" selection-end-line="153" selection-end-column="9" />
+          <folding>
+            <element signature="e#24#53#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Scrapy_InternationalEconomic_info_V1_01/items.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="858">
+          <caret line="39" column="11" lean-forward="true" selection-start-line="39" selection-start-column="11" selection-end-line="39" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Scrapy_InternationalEconomic_info_V1_01/proxy.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="374">
+          <caret line="17" column="8" lean-forward="true" selection-start-line="17" selection-start-column="8" selection-end-line="17" selection-end-column="8" />
+          <folding>
+            <element signature="e#762#1823#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Scrapy_InternationalEconomic_info_V1_01/spiders/Takungpao_01.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="704">
+          <caret line="91" selection-start-line="91" selection-end-line="91" />
+          <folding>
+            <element signature="e#24#53#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Scrapy_InternationalEconomic_info_V1_01/spiders/FinanceJrj_01.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="836">
+          <caret line="43" column="12" selection-start-line="43" selection-start-column="12" selection-end-line="43" selection-end-column="12" />
+          <folding>
+            <element signature="e#24#73#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Scrapy_InternationalEconomic_info_V1_01/spiders/ForexXinhua_02.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="389">
+          <caret line="43" selection-start-line="40" selection-end-line="43" />
+          <folding>
+            <element signature="e#24#53#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/scrapy.cfg">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="242">
+          <caret line="11" selection-start-line="11" selection-end-line="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Scrapy_InternationalEconomic_info_V1_01/spiders/Yicai_01.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="324">
+          <caret line="29" column="21" selection-start-line="29" selection-start-column="21" selection-end-line="29" selection-end-column="21" />
+          <folding>
+            <element signature="e#24#53#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Scrapy_InternationalEconomic_info_V1_01/spiders/ForexHexun_01.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1892">
+          <caret line="86" column="31" lean-forward="true" selection-start-line="86" selection-start-column="31" selection-end-line="86" selection-end-column="31" />
+          <folding>
+            <element signature="e#24#53#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Scrapy_InternationalEconomic_info_V1_01/spiders/Bbtnews_01.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="242">
+          <caret line="11" column="22" lean-forward="true" selection-start-line="11" selection-start-column="22" selection-end-line="11" selection-end-column="22" />
+          <folding>
+            <element signature="e#24#63#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Scrapy_InternationalEconomic_info_V1_01/pipelines.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="286">
+          <caret line="13" selection-start-line="13" selection-end-line="13" />
+          <folding>
+            <element signature="e#24#38#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Scrapy_InternationalEconomic_info_V1_01/MysqlPool.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="361">
+          <caret line="258" column="17" selection-start-line="258" selection-start-column="17" selection-end-line="258" selection-end-column="17" />
+          <folding>
+            <element signature="e#150#164#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Scrapy_InternationalEconomic_info_V1_01/settings.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="342">
+          <caret line="38" selection-start-line="38" selection-end-line="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Scrapy_InternationalEconomic_info_V1_01/ApolloConfig.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="638">
+          <caret line="29" selection-start-line="18" selection-end-line="29" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

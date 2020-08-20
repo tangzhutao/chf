@@ -1,0 +1,578 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="e81797db-96c6-4b84-a10f-4bb7823014fc" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Scrapy_History_Hanchao_V1_01/ApolloConfig.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="638">
+              <caret line="29" selection-start-line="18" selection-end-line="29" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Scrapy_History_Hanchao_V1_01/spiders/Y5000_01.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="162">
+              <caret line="13" selection-start-line="13" selection-end-line="13" />
+              <folding>
+                <element signature="e#24#47#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>图片下载完成</find>
+      <find>192.168.0.11:5010</find>
+      <find>192.168.0.11</find>
+      <find>Config</find>
+      <find>from Scrapy_History_Hanchao_V1_01.settings import IMAGES_STORE, SPIDER_NAME, UPLOADURL</find>
+    </findStrings>
+    <replaceStrings>
+      <replace>192.168.3.85:5010</replace>
+      <replace>def download_img(self, url, headers):</replace>
+      <replace>from Scrapy_History_Hanchao_V1_01.ApolloConfig import IMAGES_STORE, SPIDER_NAME, UPLOADURL</replace>
+    </replaceStrings>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/Scrapy_History_Hanchao_V1_01/items.py" />
+        <option value="$PROJECT_DIR$/Scrapy_History_Hanchao_V1_01/spiders/Tqxz_01.py" />
+        <option value="$PROJECT_DIR$/Scrapy_History_Hanchao_V1_01/spiders/Jianglishi_01.py" />
+        <option value="$PROJECT_DIR$/Scrapy_History_Hanchao_V1_01/test.py" />
+        <option value="$PROJECT_DIR$/scrapy.cfg" />
+        <option value="$PROJECT_DIR$/Scrapy_History_Hanchao_V1_01/spiders/Gs5000_01.py" />
+        <option value="$PROJECT_DIR$/Scrapy_History_Hanchao_V1_01/spiders/Gugong_01.py" />
+        <option value="$PROJECT_DIR$/Scrapy_History_Hanchao_V1_01/spiders/His_01.py" />
+        <option value="$PROJECT_DIR$/Scrapy_History_Hanchao_V1_01/spiders/Hxlsw_01.py" />
+        <option value="$PROJECT_DIR$/Scrapy_History_Hanchao_V1_01/spiders/Lishi88_01.py" />
+        <option value="$PROJECT_DIR$/Scrapy_History_Hanchao_V1_01/spiders/Lishichunqiu_01.py" />
+        <option value="$PROJECT_DIR$/Scrapy_History_Hanchao_V1_01/spiders/Lishisuo_01.py" />
+        <option value="$PROJECT_DIR$/Scrapy_History_Hanchao_V1_01/spiders/Lishixinzhi_01.py" />
+        <option value="$PROJECT_DIR$/Scrapy_History_Hanchao_V1_01/spiders/Lsqn_01.py" />
+        <option value="$PROJECT_DIR$/Scrapy_History_Hanchao_V1_01/spiders/Shijielishi_01.py" />
+        <option value="$PROJECT_DIR$/Scrapy_History_Hanchao_V1_01/spiders/Zhuixue_01.py" />
+        <option value="$PROJECT_DIR$/Scrapy_History_Hanchao_V1_01/MysqlPool.py" />
+        <option value="$PROJECT_DIR$/Scrapy_History_Hanchao_V1_01/pipelines.py" />
+        <option value="$PROJECT_DIR$/Scrapy_History_Hanchao_V1_01/ApolloConfig.py" />
+        <option value="$PROJECT_DIR$/Scrapy_History_Hanchao_V1_01/settings.py" />
+        <option value="$PROJECT_DIR$/Scrapy_History_Hanchao_V1_01/spiders/Baiduzixun_01.py" />
+        <option value="$PROJECT_DIR$/Scrapy_History_Hanchao_V1_01/spiders/Baijiajiangtan_01.py" />
+        <option value="$PROJECT_DIR$/Scrapy_History_Hanchao_V1_01/spiders/Y5000_01.py" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="width" value="1280" />
+    <option name="height" value="1392" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="Scrapy_History_Hanchao_V1_01" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Scrapy_History_Hanchao_V1_01" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Scrapy_History_Hanchao_V1_01" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Scrapy_History_Hanchao_V1_01" type="462c0819:PsiDirectoryNode" />
+              <item name="Scrapy_History_Hanchao_V1_01" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Scrapy_History_Hanchao_V1_01" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Scrapy_History_Hanchao_V1_01" type="462c0819:PsiDirectoryNode" />
+              <item name="Scrapy_History_Hanchao_V1_01" type="462c0819:PsiDirectoryNode" />
+              <item name="spiders" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/Scrapy_History_Hanchao_V1_01" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="F:\部署爬虫\info_spider\Scrapy_History_Hanchao_V1_01\Scrapy_History_Hanchao_V1_01" />
+      <recent name="E:\部署爬虫\info_spider\Scrapy_History_Hanchao_V1_01\Scrapy_History_Hanchao_V1_01" />
+      <recent name="E:\部署爬虫\Scrapy_History_Hanchao_V1_01\Scrapy_History_Hanchao_V1_01" />
+      <recent name="E:\History_han\industry\spider\Scrapy_History_Hanchao_V1_01\Scrapy_History_Hanchao_V1_01\spiders" />
+      <recent name="E:\History_han\industry\spider\Scrapy_History_Hanchao_V1_01\Scrapy_History_Hanchao_V1_01" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Python.ApolloConfig">
+    <configuration name="ApolloConfig" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Scrapy_History_Hanchao_V1_01" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Scrapy_History_Hanchao_V1_01" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Scrapy_History_Hanchao_V1_01/ApolloConfig.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Baiduzixun_01" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Scrapy_History_Hanchao_V1_01" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Scrapy_History_Hanchao_V1_01/spiders" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Scrapy_History_Hanchao_V1_01/spiders/Baiduzixun_01.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Lishi88_01" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Scrapy_History_Hanchao_V1_01" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Scrapy_History_Hanchao_V1_01/spiders" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Scrapy_History_Hanchao_V1_01/spiders/Lishi88_01.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Lishisuo_01" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Scrapy_History_Hanchao_V1_01" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Scrapy_History_Hanchao_V1_01/spiders" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Scrapy_History_Hanchao_V1_01/spiders/Lishisuo_01.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="test" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Scrapy_History_Hanchao_V1_01" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Scrapy_History_Hanchao_V1_01" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Scrapy_History_Hanchao_V1_01/test.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.ApolloConfig" />
+        <item itemvalue="Python.Baiduzixun_01" />
+        <item itemvalue="Python.test" />
+        <item itemvalue="Python.Lishi88_01" />
+        <item itemvalue="Python.Lishisuo_01" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e81797db-96c6-4b84-a10f-4bb7823014fc" name="Default Changelist" comment="" />
+      <created>1596015205150</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1596015205150</updated>
+      <workItem from="1596015208330" duration="859000" />
+      <workItem from="1596438270202" duration="5717000" />
+      <workItem from="1596445568747" duration="11000" />
+      <workItem from="1596448963629" duration="5000" />
+      <workItem from="1596525365567" duration="2400000" />
+      <workItem from="1596528790465" duration="8000" />
+      <workItem from="1596532847308" duration="1574000" />
+      <workItem from="1596872400049" duration="113000" />
+      <workItem from="1597281895133" duration="868000" />
+      <workItem from="1597737065779" duration="979000" />
+      <workItem from="1597800748687" duration="2678000" />
+      <workItem from="1597906675110" duration="1880000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="17092000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-9" y="-9" width="2578" height="1410" extended-state="6" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.13338658" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.329582" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32395497" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.3995177" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" />
+      <window_info anchor="bottom" id="Database Changes" order="9" />
+      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
+      <window_info anchor="bottom" id="Terminal" order="11" weight="0.30144694" />
+      <window_info anchor="bottom" id="Python Console" order="12" weight="0.329582" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="SciView" order="3" />
+      <window_info anchor="right" id="Database" order="4" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/Scrapy_History_Hanchao_V1_01$Lishisuo_01.coverage" NAME="Lishisuo_01 Coverage Results" MODIFIED="1596443958428" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Scrapy_History_Hanchao_V1_01/spiders" />
+    <SUITE FILE_PATH="coverage/Scrapy_History_Hanchao_V1_01$Zhuixue_01.coverage" NAME="Zhuixue_01 Coverage Results" MODIFIED="1596441427327" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Scrapy_History_Hanchao_V1_01/spiders" />
+    <SUITE FILE_PATH="coverage/Scrapy_History_Hanchao_V1_01$Jianglishi_01.coverage" NAME="Jianglishi_01 Coverage Results" MODIFIED="1596443523155" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Scrapy_History_Hanchao_V1_01/spiders" />
+    <SUITE FILE_PATH="coverage/Scrapy_History_Hanchao_V1_01$Gs5000_01.coverage" NAME="Gs5000_01 Coverage Results" MODIFIED="1596440210853" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Scrapy_History_Hanchao_V1_01/spiders" />
+    <SUITE FILE_PATH="coverage/Scrapy_History_Hanchao_V1_01$Baijiajiangtan_01.coverage" NAME="Baijiajiangtan_01 Coverage Results" MODIFIED="1596441434492" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Scrapy_History_Hanchao_V1_01/spiders" />
+    <SUITE FILE_PATH="coverage/Scrapy_History_Hanchao_V1_01$His_01.coverage" NAME="His_01 Coverage Results" MODIFIED="1596443236567" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Scrapy_History_Hanchao_V1_01/spiders" />
+    <SUITE FILE_PATH="coverage/Scrapy_History_Hanchao_V1_01$Lishichunqiu_01.coverage" NAME="Lishichunqiu_01 Coverage Results" MODIFIED="1596442312944" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Scrapy_History_Hanchao_V1_01/spiders" />
+    <SUITE FILE_PATH="coverage/Scrapy_History_Hanchao_V1_01$Baiduzixun_01.coverage" NAME="Baiduzixun_01 Coverage Results" MODIFIED="1597806463268" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Scrapy_History_Hanchao_V1_01/spiders" />
+    <SUITE FILE_PATH="coverage/Scrapy_History_Hanchao_V1_01$Y5000_01.coverage" NAME="Y5000_01 Coverage Results" MODIFIED="1596442000780" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Scrapy_History_Hanchao_V1_01/spiders" />
+    <SUITE FILE_PATH="coverage/Scrapy_History_Hanchao_V1_01$test.coverage" NAME="test Coverage Results" MODIFIED="1597281989265" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Scrapy_History_Hanchao_V1_01" />
+    <SUITE FILE_PATH="coverage/Scrapy_History_Hanchao_V1_01$Lishi88_01.coverage" NAME="Lishi88_01 Coverage Results" MODIFIED="1596527069466" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Scrapy_History_Hanchao_V1_01/spiders" />
+    <SUITE FILE_PATH="coverage/Scrapy_History_Hanchao_V1_01$Gugong_01.coverage" NAME="Gugong_01 Coverage Results" MODIFIED="1596443230938" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Scrapy_History_Hanchao_V1_01/spiders" />
+    <SUITE FILE_PATH="coverage/Scrapy_History_Hanchao_V1_01$Shijielishi_01.coverage" NAME="Shijielishi_01 Coverage Results" MODIFIED="1596439360472" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Scrapy_History_Hanchao_V1_01/spiders" />
+    <SUITE FILE_PATH="coverage/Scrapy_History_Hanchao_V1_01$Lishixinzhi_01.coverage" NAME="Lishixinzhi_01 Coverage Results" MODIFIED="1596440816595" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Scrapy_History_Hanchao_V1_01/spiders" />
+    <SUITE FILE_PATH="coverage/Scrapy_History_Hanchao_V1_01$Tqxz_01.coverage" NAME="Tqxz_01 Coverage Results" MODIFIED="1596442584656" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Scrapy_History_Hanchao_V1_01/spiders" />
+    <SUITE FILE_PATH="coverage/Scrapy_History_Hanchao_V1_01$ApolloConfig.coverage" NAME="ApolloConfig Coverage Results" MODIFIED="1597907841127" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Scrapy_History_Hanchao_V1_01" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/../Scrapy_Baijiajiangtan_V1_01/Scrapy_Baijiajiangtan_V1_01/spiders/Baijiajiangtan_01.py" />
+    <entry file="file://$PROJECT_DIR$/Scrapy_History_Hanchao_V1_01/spiders/Tqxz_01.py" />
+    <entry file="file://$PROJECT_DIR$/Scrapy_History_Hanchao_V1_01/spiders/Jianglishi_01.py" />
+    <entry file="file://$PROJECT_DIR$/Scrapy_History_Hanchao_V1_01/items.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="220">
+          <caret line="10" column="14" selection-start-line="10" selection-start-column="14" selection-end-line="10" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Scrapy_History_Hanchao_V1_01/mysqlAPI.py" />
+    <entry file="file://$PROJECT_DIR$/Scrapy_History_Hanchao_V1_01/test.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="176">
+          <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Scrapy_History_Hanchao_V1_01/spiders/Gs5000_01.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="792">
+          <caret line="53" column="21" lean-forward="true" selection-start-line="53" selection-start-column="21" selection-end-line="53" selection-end-column="21" />
+          <folding>
+            <element signature="e#24#47#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Scrapy_History_Hanchao_V1_01/spiders/Gugong_01.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="792">
+          <caret line="77" column="48" selection-start-line="77" selection-start-column="48" selection-end-line="77" selection-end-column="48" />
+          <folding>
+            <element signature="e#24#47#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Scrapy_History_Hanchao_V1_01/spiders/His_01.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="528">
+          <caret line="65" column="35" selection-start-line="65" selection-start-column="35" selection-end-line="65" selection-end-column="35" />
+          <folding>
+            <element signature="e#24#47#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Scrapy_History_Hanchao_V1_01/spiders/Hxlsw_01.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="418">
+          <caret line="51" column="26" selection-start-line="51" selection-start-column="26" selection-end-line="51" selection-end-column="26" />
+          <folding>
+            <element signature="e#24#47#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Scrapy_History_Hanchao_V1_01/spiders/Lishichunqiu_01.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="924">
+          <caret line="83" column="8" selection-start-line="83" selection-start-column="8" selection-end-line="83" selection-end-column="8" />
+          <folding>
+            <element signature="e#24#47#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Scrapy_History_Hanchao_V1_01/spiders/Zhuixue_01.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1496">
+          <caret line="73" column="29" selection-start-line="73" selection-start-column="29" selection-end-line="73" selection-end-column="29" />
+          <folding>
+            <element signature="e#24#47#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Scrapy_History_Hanchao_V1_01/middlewares.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1078">
+          <caret line="53" column="29" selection-start-line="53" selection-start-column="29" selection-end-line="53" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Scrapy_History_Hanchao_V1_01/spiders/Lishisuo_01.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1848">
+          <caret line="88" column="8" selection-start-line="88" selection-start-column="8" selection-end-line="88" selection-end-column="8" />
+          <folding>
+            <element signature="e#24#57#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Scrapy_History_Hanchao_V1_01/spiders/Lishixinzhi_01.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1738">
+          <caret line="84" column="8" selection-start-line="84" selection-start-column="8" selection-end-line="84" selection-end-column="8" />
+          <folding>
+            <element signature="e#24#47#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Scrapy_History_Hanchao_V1_01/spiders/Lsqn_01.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1496">
+          <caret line="73" column="8" selection-start-line="73" selection-start-column="8" selection-end-line="73" selection-end-column="8" />
+          <folding>
+            <element signature="e#24#47#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Scrapy_History_Hanchao_V1_01/spiders/Shijielishi_01.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1628">
+          <caret line="79" column="8" selection-start-line="79" selection-start-column="8" selection-end-line="79" selection-end-column="8" />
+          <folding>
+            <element signature="e#24#47#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/scrapy.cfg">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="220">
+          <caret line="10" column="38" selection-start-line="10" selection-start-column="10" selection-end-line="10" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Scrapy_History_Hanchao_V1_01/spiders/Lishi88_01.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1628">
+          <caret line="79" column="8" selection-start-line="79" selection-start-column="8" selection-end-line="79" selection-end-column="8" />
+          <folding>
+            <element signature="e#24#47#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Scrapy_History_Hanchao_V1_01/MysqlPool.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="286">
+          <caret line="13" lean-forward="true" selection-start-line="13" selection-end-line="13" />
+          <folding>
+            <element signature="e#150#164#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Scrapy_History_Hanchao_V1_01/proxy.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="352">
+          <caret line="16" lean-forward="true" selection-start-line="16" selection-end-line="16" />
+          <folding>
+            <element signature="e#762#1823#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Scrapy_History_Hanchao_V1_01/settings.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="492">
+          <caret line="35" column="47" selection-start-line="35" selection-start-column="47" selection-end-line="35" selection-end-column="47" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Scrapy_History_Hanchao_V1_01/pipelines.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="154">
+          <caret line="7" column="20" lean-forward="true" selection-start-line="7" selection-start-column="20" selection-end-line="7" selection-end-column="20" />
+          <folding>
+            <element signature="e#24#38#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Scrapy_History_Hanchao_V1_01/spiders/Baiduzixun_01.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="132">
+          <caret line="6" column="46" selection-start-line="6" selection-start-column="46" selection-end-line="6" selection-end-column="46" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Scrapy_History_Hanchao_V1_01/spiders/Baijiajiangtan_01.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-968">
+          <caret line="13" lean-forward="true" selection-start-line="13" selection-end-line="13" />
+          <folding>
+            <element signature="e#24#47#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Scrapy_History_Hanchao_V1_01/spiders/Y5000_01.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="162">
+          <caret line="13" selection-start-line="13" selection-end-line="13" />
+          <folding>
+            <element signature="e#24#47#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Scrapy_History_Hanchao_V1_01/ApolloConfig.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="638">
+          <caret line="29" selection-start-line="18" selection-end-line="29" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

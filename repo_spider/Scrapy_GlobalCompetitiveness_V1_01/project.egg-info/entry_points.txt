@@ -1,0 +1,3 @@
+[scrapy]
+settings = Scrapy_GlobalCompetitiveness_V1_01.settings
+
