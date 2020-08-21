@@ -57,37 +57,36 @@ class Robo01Spider(scrapy.Spider):
 
     # 建立下一级目录
     def parse1(self, response):
-        pass
-        # base_url = 'https://gw.datayes.com/rrp_adventure/web/supervisor/macro/'
-        # parent_id = response.meta['parent_id']
-        # config_info = json.loads(response.text)
-        # childData = config_info['data']['childData']
-        # # i = 1
-        # for child in childData:
-        #     id = child['id']
-        #     indicId = child['indicId']
-        #     nameCn = child['nameCn']
-        #     hasChildren = child['hasChildren']
-        #
-        #     a = mysql_config.select(nameCn, parent_id, indicId)
-        #     if not a:
-        #         n = mysql_config.select_count(parent_id) + 1
-        #         menu_id = parent_id + "{:03d}".format(n)
-        #         mysql_config.insert(menu_id, nameCn, parent_id, indicId)
-        #     else:
-        #         menu_id = a['menu_id']
-        #
-        #     if hasChildren:
-        #         url = base_url + id
-        #         req = scrapy.Request(url=url, callback=self.parse1, dont_filter=True, meta={'parent_id': menu_id},
-        #                              headers=self.headers)
-        #         yield req
-        #     else:
-        #         url = f'https://gw.datayes.com/rrp_adventure/web/dataCenter/indic/{indicId}?compare=false'
-        #         req = scrapy.Request(url=url, callback=self.detail, dont_filter=True,
-        #                              meta={'parent_id': menu_id, 'indic_name': nameCn},
-        #                              headers=self.headers)
-        #         yield req
+        base_url = 'https://gw.datayes.com/rrp_adventure/web/supervisor/macro/'
+        parent_id = response.meta['parent_id']
+        config_info = json.loads(response.text)
+        childData = config_info['data']['childData']
+        # i = 1
+        for child in childData:
+            id = child['id']
+            indicId = child['indicId']
+            nameCn = child['nameCn']
+            hasChildren = child['hasChildren']
+
+            a = mysql_config.select(nameCn, parent_id, indicId)
+            if not a:
+                n = mysql_config.select_count(parent_id) + 1
+                menu_id = parent_id + "{:03d}".format(n)
+                mysql_config.insert(menu_id, nameCn, parent_id, indicId)
+            else:
+                menu_id = a['menu_id']
+
+            if hasChildren:
+                url = base_url + id
+                req = scrapy.Request(url=url, callback=self.parse1, dont_filter=True, meta={'parent_id': menu_id},
+                                     headers=self.headers)
+                yield req
+            else:
+                url = f'https://gw.datayes.com/rrp_adventure/web/dataCenter/indic/{indicId}?compare=false'
+                req = scrapy.Request(url=url, callback=self.detail, dont_filter=True,
+                                     meta={'parent_id': menu_id, 'indic_name': nameCn},
+                                     headers=self.headers)
+                yield req
 
     def detail(self, response):
         info = json.loads(response.text)['data']
