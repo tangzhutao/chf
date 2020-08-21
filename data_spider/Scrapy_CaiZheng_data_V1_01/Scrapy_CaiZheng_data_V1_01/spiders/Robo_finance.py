@@ -63,6 +63,7 @@ class Robo01Spider(scrapy.Spider):
         childData = config_info['data']['childData']
         # i = 1
         for child in childData:
+
             id = child['id']
             indicId = child['indicId']
             nameCn = child['nameCn']
